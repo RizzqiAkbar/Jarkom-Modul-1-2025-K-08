@@ -13,6 +13,16 @@ Untuk mempersiapkan pembuatan entitas selain mereka, Eru yang berperan sebagai R
 ## Soal 2
 Karena menurut Eru pada saat itu Arda (Bumi) masih terisolasi dengan dunia luar, maka buat agar Eru dapat tersambung ke internet.
 
+Ubah Configure Eru:
+<img width="468" height="357" alt="image" src="https://github.com/user-attachments/assets/115f58b8-99fb-4f1e-b385-b3d51aaefbb7" />
+
+install iptables terlebih dahulu:
+`apt update && apt install iptables -y`
+lalu jalankan command dibawah agar eru bisa terhubung ke internet
+<img width="1619" height="341" alt="image" src="https://github.com/user-attachments/assets/94b95dd3-9189-487c-a02c-57dfc9c57985" />
+
+
+
 
 ## Soal 3
 Setelah berhasil terhubung, sekarang Eru ingin agar setiap Ainur (Client) dapat mandiri. Oleh karena itu pastikan agar setiap Client dapat tersambung ke internet.
