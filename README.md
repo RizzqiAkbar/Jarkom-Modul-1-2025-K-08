@@ -68,7 +68,7 @@ Jumlah packets keseluruhan adalah :
 User, password, dan tools yang digunakan :
 <img width="1204" height="547" alt="Soal14 (3)" src="https://github.com/user-attachments/assets/6f5da147-483d-4a80-afed-ad3a19252baa" />
 
-Streamnya : 4824 (Lupa tidak SS)
+Streamnya : 41824 (Lupa tidak SS)
 
 ## Soal 15
 
