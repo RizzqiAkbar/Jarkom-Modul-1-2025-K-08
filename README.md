@@ -24,6 +24,13 @@ lalu jalankan command dibawah agar eru bisa terhubung ke internet
 <img width="1619" height="341" alt="image" src="https://github.com/user-attachments/assets/94b95dd3-9189-487c-a02c-57dfc9c57985" />
 
 ## Soal 3
+Sekarang pastikan agar setiap Ainur (Client) dapat terhubung satu sama lain.
+
+Dari struktur nomor 1 sudah terlihat bahwa setiap client sudah terhubung satu sama lain, bisa juga di cek melalui `ip a` agar terlihat jaringan nya sudah sesuai.
+
+## Soal 4
+Ainur terkuat Melkor tetap berusaha untuk menanamkan kejahatan ke dalam Arda (Bumi). Sebelum terjadi kerusakan, Eru dan para Ainur lainnya meminta agar semua konfigurasi tidak hilang saat semua node di restart.
+
 Setelah berhasil terhubung, sekarang Eru ingin agar setiap Ainur (Client) dapat mandiri. Oleh karena itu pastikan agar setiap Client dapat tersambung ke internet.
 
 - configure melkor
@@ -57,9 +64,6 @@ Cek apakah varda sudah terhubung ke internet
 Cek apakah ulmo sudah terhubung ke internet
 <img width="1617" height="369" alt="image" src="https://github.com/user-attachments/assets/7a4e140c-d77d-4233-a115-f679e628b0df" />
 
-
-## Soal 4
-Ainur terkuat Melkor tetap berusaha untuk menanamkan kejahatan ke dalam Arda (Bumi). Sebelum terjadi kerusakan, Eru dan para Ainur lainnya meminta agar semua konfigurasi tidak hilang saat semua node di restart.
 
 
 ## Soal 5
