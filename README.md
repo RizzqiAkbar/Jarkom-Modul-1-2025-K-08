@@ -6,8 +6,9 @@
 | 502724117 | Adinda Cahya Pramesti | 
 
 ## Soal 1
+Untuk mempersiapkan pembuatan entitas selain mereka, Eru yang berperan sebagai Router membuat dua Switch/Gateway. Dimana Switch 1 akan menuju ke dua Ainur yaitu Melkor dan Manwe. Sedangkan Switch 2 akan menuju ke dua Ainur lainnya yaitu Varda dan Ulmo. Keempat Ainur tersebut diberi perintah oleh Eru untuk menjadi Client.
+<img width="1899" height="999" alt="image" src="https://github.com/user-attachments/assets/8a3b175c-475c-4dd8-a5a8-521f6852f03a" />
 
-//Tulis di sini
 
 ## Soal 2
 
