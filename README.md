@@ -93,15 +93,32 @@ Output Wireshark : filter :  `ip.addr == 192.215.1.3`
 Untuk meningkatkan keamanan, Eru memutuskan untuk membuat sebuah FTP Server di node miliknya. Lakukan konfigurasi FTP Server pada node Eru. Buat dua user baru: ainur dengan hak akses write&read dan melkor tanpa hak akses sama sekali ke direktori shared. Buktikan hasil tersebut dengan membuat file teks sederhana kemudian akses file tersebut menggunakan kedua user.
 
 -adduser ainur
+
 <img width="990" height="442" alt="image" src="https://github.com/user-attachments/assets/16577ed6-a020-42f4-8c3d-4f77fdca95d7" />
 
 
 - adduser melkor
+  
 <img width="1000" height="440" alt="image" src="https://github.com/user-attachments/assets/f4e68387-6625-45b3-966f-51e633bdec1d" />
 
 
 -set file vstpd.conf
+
 <img width="545" height="379" alt="image" src="https://github.com/user-attachments/assets/359153f3-a826-4b41-a4be-82324b94fbcb" />
+
+- login ke malkor
+
+<img width="719" height="337" alt="image" src="https://github.com/user-attachments/assets/f70eb49c-8050-47a4-9960-6d7cc7e3c818" />
+
+- put
+
+<img width="952" height="196" alt="image" src="https://github.com/user-attachments/assets/41304863-cc6a-4a94-96da-f4d226f08004" />
+
+- get
+
+<img width="947" height="119" alt="image" src="https://github.com/user-attachments/assets/6c7cf606-0050-4ab1-905d-3fff8e4dbb01" />
+
+
 
 
 
