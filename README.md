@@ -63,7 +63,7 @@ Setelah gagal mengakses FTP, Melkor melancarkan serangan brute force terhadap  M
 <img width="935" height="570" alt="Soal14 (4)" src="https://github.com/user-attachments/assets/0e5b8d51-7db0-474d-b2b6-1759d57c09f0" />
 
 Jumlah packets keseluruhan adalah :
-<img width="932" height="294" alt="Soal15 (2)" src="https://github.com/user-attachments/assets/afe35683-c902-4ad4-9687-27ca7d90758b" />
+<img width="1748" height="640" alt="Soal14 (2)" src="https://github.com/user-attachments/assets/65befdfc-fcfa-4dd4-9b43-f723a0cd43f6" />
 
 User, password, dan tools yang digunakan :
 <img width="1204" height="547" alt="Soal14 (3)" src="https://github.com/user-attachments/assets/6f5da147-483d-4a80-afed-ad3a19252baa" />
