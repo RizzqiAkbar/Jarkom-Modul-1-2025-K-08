@@ -133,7 +133,7 @@ Banyak ransom yang diinginkan oleh pengirim :
 <img width="1207" height="584" alt="Soal19 (3)" src="https://github.com/user-attachments/assets/79cdb036-3f8f-4fdc-b89f-666885cf645b" />
 
 Wallet si pengirim :
-<img width="1217" height="574" alt="Soal19 (4)" src="https://github.com/user-attachments/assets/1d0a69c9-9011-457a-9b76-c03d4b011aa1" />
+<img width="1209" height="589" alt="Soal19 (2)" src="https://github.com/user-attachments/assets/a50cdc9d-93b5-4ada-bf56-261fe9bdc68b" />
 
 ## Soal 20
 
