@@ -1,1 +1,9 @@
+#!/bin/bash
+# eru
 
+apt update 
+apt install -y iptables
+iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE -s 192.215.0.0/16
+echo "nameserver 192.168.122.1" > /etc/resolv.conf
+
+ping google.com
