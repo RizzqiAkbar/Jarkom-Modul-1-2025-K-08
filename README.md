@@ -78,11 +78,32 @@ Lakukan ke semua client juga.
 
 ## Soal 6
 Setelah semua Ainur terhubung ke internet, Melkor mencoba menyusup ke dalam komunikasi antara Manwe dan Eru. Jalankan file berikut (link file) lalu lakukan packet sniffing menggunakan Wireshark pada koneksi antara Manwe dan Eru, lalu terapkan display filter untuk menampilkan semua paket yang berasal dari atau menuju ke IP Address Manwe. Simpan hasil capture tersebut sebagai bukti.
+
+- masuk ke manwe
+- jalankan `apt update && apt install unzip` terlebih dahulu
+- kemudian install link file menggunakan wget `wget --no-check-certificate "https://docs.google.com/uc?export=download&id=1bE3kF1Nclw0VyKq4bL2VtOOt53IC7lG5" -O traffic.zip && unzip\302\240traffic.zip`
+- lalu set permission `chmod +x traffic.sh`
+- jalankan `./traffic.sh`
+
+Output Wireshark : filter :  `ip.addr == 192.215.1.3`
 <img width="2458" height="1529" alt="image" src="https://github.com/user-attachments/assets/9af3e350-9ad2-4406-bfa1-a33d653b7160" />
 
 
 ## Soal 7
 Untuk meningkatkan keamanan, Eru memutuskan untuk membuat sebuah FTP Server di node miliknya. Lakukan konfigurasi FTP Server pada node Eru. Buat dua user baru: ainur dengan hak akses write&read dan melkor tanpa hak akses sama sekali ke direktori shared. Buktikan hasil tersebut dengan membuat file teks sederhana kemudian akses file tersebut menggunakan kedua user.
+
+-adduser ainur
+<img width="990" height="442" alt="image" src="https://github.com/user-attachments/assets/16577ed6-a020-42f4-8c3d-4f77fdca95d7" />
+
+
+- adduser melkor
+<img width="1000" height="440" alt="image" src="https://github.com/user-attachments/assets/f4e68387-6625-45b3-966f-51e633bdec1d" />
+
+
+-set file vstpd.conf
+<img width="545" height="379" alt="image" src="https://github.com/user-attachments/assets/359153f3-a826-4b41-a4be-82324b94fbcb" />
+
+
 
 
 ## Soal 8
