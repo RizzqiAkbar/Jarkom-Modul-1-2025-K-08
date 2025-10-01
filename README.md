@@ -3,7 +3,7 @@
 |     NRP    |         NAMA          | 
 |------------|-----------------------|
 | 5027241044 | Rizqi Akbar S.P.      | 
-| 5027241127 | Adinda Cahya Pramesti | 
+| 502724117 | Adinda Cahya Pramesti | 
 
 ## Soal 1
 
