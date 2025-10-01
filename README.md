@@ -96,7 +96,7 @@ Credential yang dipakai adalah :
 Berapa file yang terindikasi malware : 5
 <img width="1498" height="704" alt="Soal16 (4)" src="https://github.com/user-attachments/assets/0855479d-5770-403f-b887-84b8190ca160" />
 
-hash semua file :
+hash dari kesemua file :
 <img width="721" height="251" alt="Soal16 (11)" src="https://github.com/user-attachments/assets/6bcd1b97-29b2-4720-a213-92826654109f" />
 
 ## Soal 17
