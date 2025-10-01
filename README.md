@@ -148,6 +148,9 @@ Sebelum era koneksi aman, Eru sering menyelinap masuk ke wilayah Melkor. Eru per
 ## Soal 12
 Eru mencurigai Melkor menjalankan beberapa layanan terlarang di node-nya. Lakukan pemindaian port sederhana dari node Eru ke node Melkor menggunakan Netcat (nc) untuk memeriksa port 21, 80, dalam keadaan terbuka dan port rahasia 666 dalam keadaan tertutup.
 
+<img width="1047" height="525" alt="image" src="https://github.com/user-attachments/assets/5ece04ca-986e-49a8-952f-bed60096114d" />
+
+
 
 ## Soal 13
 Setelah insiden penyadapan Telnet, Eru memerintahkan semua koneksi administratif harus menggunakan SSH (Secure Shell) untuk mengamankan jaringan. Lakukan koneksi SSH dari node Varda ke Eru. Tangkap sesi tersebut menggunakan Wireshark. Analisis dan jelaskan mengapa username dan password tidak dapat dilihat seperti pada sesi Telnet. Tunjukkan paket-paket terenkripsi dalam hasil capture sebagai bukti keamanan SSH.
