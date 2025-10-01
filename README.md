@@ -59,7 +59,19 @@
 
 ## Soal 14
 
-//Tulis di sini
+Setelah gagal mengakses FTP, Melkor melancarkan serangan brute force terhadap  Manwe. Analisis file capture yang disediakan dan identifikasi upaya brute force Melkor.
+images/Soal14 (4).png
+
+Jumlah packets keseluruhan adalah :
+images/Soal14 (2).png
+
+User dan password yang berhasil login :
+images/Soal14 (3).png
+
+Streamnya : 4824 (Lupa tidak SS)
+
+Tools yang digunakan :
+images/Soal14 (3).png
 
 ## Soal 15
 
