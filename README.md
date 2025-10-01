@@ -23,11 +23,32 @@ lalu jalankan command dibawah agar eru bisa terhubung ke internet
 
 <img width="1619" height="341" alt="image" src="https://github.com/user-attachments/assets/94b95dd3-9189-487c-a02c-57dfc9c57985" />
 
-
-
-
 ## Soal 3
 Setelah berhasil terhubung, sekarang Eru ingin agar setiap Ainur (Client) dapat mandiri. Oleh karena itu pastikan agar setiap Client dapat tersambung ke internet.
+> configure melkor
+<img width="422" height="162" alt="image" src="https://github.com/user-attachments/assets/a4ee02f6-a3d8-4755-af22-3677850e0d9b" />
+
+Cek apakah melkor sudah terhubung ke internet
+<img width="1630" height="374" alt="image" src="https://github.com/user-attachments/assets/4f640087-1604-486c-ae3a-49f7fc62c536" />
+
+> configure manwe
+<img width="422" height="162" alt="image" src="https://github.com/user-attachments/assets/1de8d151-a845-4429-8358-7764d9dce9e8" />
+
+Cek apakah manwe sudah terhubung ke internet
+<img width="1615" height="369" alt="image" src="https://github.com/user-attachments/assets/bf07bd4d-9e1b-416d-a341-4b4c828ce75f" />
+
+> configure varda
+<img width="424" height="163" alt="image" src="https://github.com/user-attachments/assets/be9e1998-8079-4cf2-bac0-0fa5039790db" />
+
+Cek apakah varda sudah terhubung ke internet
+<img width="1611" height="375" alt="image" src="https://github.com/user-attachments/assets/90a9b3b7-5aa2-48cf-baf4-2468e686675b" />
+
+
+> configure ulmo
+<img width="424" height="163" alt="image" src="https://github.com/user-attachments/assets/a5a19357-cacb-41d6-b2e2-8a38dcd85f4c" />
+
+Cek apakah ulmo sudah terhubung ke internet
+<img width="1617" height="369" alt="image" src="https://github.com/user-attachments/assets/7a4e140c-d77d-4233-a115-f679e628b0df" />
 
 
 ## Soal 4
