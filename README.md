@@ -69,6 +69,12 @@ Cek apakah ulmo sudah terhubung ke internet
 ## Soal 5
 Ainur terkuat Melkor tetap berusaha untuk menanamkan kejahatan ke dalam Arda (Bumi). Sebelum terjadi kerusakan, Eru dan para Ainur lainnya meminta agar semua konfigurasi tidak hilang saat semua node di restart.
 
+masuk ke `/root/.bashrc` lalu tambahkan semua configurasi yang ingin dimasukan (gambar dibawah ini ada di Eru)
+<img width="1476" height="913" alt="image" src="https://github.com/user-attachments/assets/c9046162-dae2-4f1d-8773-9bec55c27b1c" />
+- bisa tambhkan apt update / apt install dll.
+
+Lakukan ke semua client juga.
+
 
 ## Soal 6
 Setelah semua Ainur terhubung ke internet, Melkor mencoba menyusup ke dalam komunikasi antara Manwe dan Eru. Jalankan file berikut (link file) lalu lakukan packet sniffing menggunakan Wireshark pada koneksi antara Manwe dan Eru, lalu terapkan display filter untuk menampilkan semua paket yang berasal dari atau menuju ke IP Address Manwe. Simpan hasil capture tersebut sebagai bukti.
@@ -89,7 +95,12 @@ Eru ingin membagikan "Kitab Penciptaan" di (link file) kepada Manwe. Dari FTP Se
 
 ## Soal 10
 Melkor yang marah karena tidak diberi akses, mencoba melakukan serangan dengan mengirimkan banyak sekali request ke server Eru. Gunakan command ping dari node Melkor ke node Eru dengan jumlah paket yang tidak biasa (spam ping misalnya 100 paket). Amati hasilnya, apakah ada packet loss? Catat average round trip time untuk melihat apakah serangan tersebut mempengaruhi kinerja Eru.
-<img width="2321" height="812" alt="image" src="https://github.com/user-attachments/assets/2462ac3e-0e7d-4622-a577-7a2271a36156" />
+
+Jika ingin ping ke Eru dari Melkor, maka lihat dulu Melkor terhubung ke interface yang mana lalu lihat Eru juga terhubung ke interface yang mana
+
+Disini, Eru dan Melkor berada dalam satu jaringan (192.215.1.0/24)
+<img width="1193" height="408" alt="image" src="https://github.com/user-attachments/assets/fc722f9e-59d7-40ed-8697-af21cafca7c7" />
+
 
 
 ## Soal 11
